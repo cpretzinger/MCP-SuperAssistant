@@ -320,4 +320,3 @@ Supports _{Provider}/{ModelName}_ format
 
   ```env
   MODEL_NAME="ollama/mistral:v0.3"
-  ```
